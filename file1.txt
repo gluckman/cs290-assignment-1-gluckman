@@ -1,0 +1,1 @@
+This file has some text in it. It's part of CS290 Assignment 1. David Gluckman made it.
